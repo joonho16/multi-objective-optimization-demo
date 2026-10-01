@@ -1,4 +1,4 @@
-# 다목적 최적화 실험
+# Multi-Objective Optimization 실험
 
 ## 만든 목적
 
